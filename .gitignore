@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+._*
+
+# Python venv
+.venv_ot/
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Heavy / generated artifacts (excluded from this repo)
+output/
+plot/
+paper/
+data/
